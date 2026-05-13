@@ -1,0 +1,6 @@
+-Wno-frame-address
+-mlongcalls
+-fno-builtin-memcpy
+-fno-builtin-memset
+-fno-builtin-bzero
+"-specs=C:/Users/Deepa Agencies/Documents/my codes/esp32_projects/led_blink/build/specs/picolibc.specs"
