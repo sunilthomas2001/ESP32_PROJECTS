@@ -1,0 +1,7 @@
+-Wno-frame-address
+-mlongcalls
+-fno-builtin-memcpy
+-fno-builtin-memset
+-fno-builtin-bzero
+"-specs=C:/Users/Deepa Agencies/Documents/my codes/esp32_projects/wifi_connect/build/specs/picolibc.specs"
+-fno-rtti
